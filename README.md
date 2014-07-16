@@ -3,15 +3,16 @@
 This repository contains tests for the CLML Machine Learning library and sample datasets and code.
 
 The CLML Machine-Learning is high performance and large scale statistical
-machine learning package written in Common Lisp developed at MSI. CLML can be obtained from the git repository
-    <https://github.com/mmaul/clml.git>
+machine learning package written in Common Lisp developed at MSI. CLML can be obtained from the git repository:
+
+-   <https://github.com/mmaul/clml.git>
 
 The test code is an excellent way of getting familiar with using CLML
 
 ## Organization
 
--   test - clml.test test for CLML
--   sample - datasets supporting tests and sample data
+-   **test:** clml.test test for CLML
+-   **sample:** datasets supporting tests and sample data
 
 ## Testing
 
